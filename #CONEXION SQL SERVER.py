@@ -1,5 +1,5 @@
 #CONEXION SQL SERVER
-#instalar pip install pyodbc
+#instalar pip install pyodbc.
 # Copyright (c) 2024 Rafael Almentero
 import pyodbc
 
